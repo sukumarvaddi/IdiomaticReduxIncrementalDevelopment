@@ -1,0 +1,11 @@
+.DS_Store
+.idea/.DS_Store
+.idea/codeStyles/codeStyleConfig.xml
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+IdiomaticReduxIncrementalDevelopment.iml
