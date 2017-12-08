@@ -9,3 +9,5 @@
 .idea/modules.xml
 .idea/workspace.xml
 IdiomaticReduxIncrementalDevelopment.iml
+.idea/vcs.xml
+23_AvoidingRaceConditionsWithThunks/todo-masters/package-lock.json
